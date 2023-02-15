@@ -1,9 +1,3 @@
-# Manav-Kasa-Programi
-Java Manav Kasa Programi
-
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
